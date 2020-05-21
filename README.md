@@ -7,6 +7,7 @@ Exercicios - Testes e templates
 - Criar outra classe de  resposta  (destino)  contendo  os  mesmos  atributos.  
 - Por  fim,  crie  uma  classe contendo um método para converter os dados da classe de origem para a classe destino.
 
+Teste:
 - Criar 2 classes de template para origem e destino; 
 - Criar classes de teste, bem como os casos de teste do método de conversão. 
 - Realize testes para cada caso (sucesso e falha) utilizando os templates.
