@@ -1,0 +1,7 @@
+br\com\ibm\treinamento\testes\mapper\ClienteMapperImpl.class
+br\com\ibm\treinamento\testes\calculos\Fatorial.class
+br\com\ibm\treinamento\testes\cliente\ClienteDestino.class
+br\com\ibm\treinamento\testes\mapper\ClienteMapper.class
+br\com\ibm\treinamento\testes\calculos\Media.class
+br\com\ibm\treinamento\testes\cliente\ClienteOrigem.class
+br\com\ibm\treinamento\testes\Operacoes.class
